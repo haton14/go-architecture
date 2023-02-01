@@ -3,4 +3,5 @@
 
 ## 参考
 データベーススペシャリストの2020年の午後Ⅰ 問1
+
 https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2020r02.html
